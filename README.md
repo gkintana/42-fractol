@@ -1,1 +1,1 @@
-# 42-fractol
+### 42 - Fract'ol Project
