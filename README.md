@@ -31,3 +31,42 @@ As for the graphic representation:
 * The zoom follows the actual mouse position
 * In addition to the zoom: moving with the arrows
 * Make the color range shift
+
+## Output
+### Mandelbrot Fractal
+![mandelbrot-1](examples/mandelbrot-1.png)
+![mandelbrot-2](examples/mandelbrot-2.png)
+![mandelbrot-3](examples/mandelbrot-3.png)
+
+### Julia Fractal
+![julia-1](examples/julia-1.png)
+<p align="center">
+  Julia Set: 0.2850 + 0.0100i
+</p>
+
+![julia-2](examples/julia-2.png)
+<p align="center">
+  Julia Set: 0.7500 + 0.1100i
+</p>
+
+![julia-3](examples/julia-3.png)
+<p align="center">
+  Julia Set: -0.1000 + 0.6510i
+</p>
+
+![julia-4](examples/julia-4.png)
+<p align="center">
+  Julia Set: -0.8000 + 0.1560i
+</p>
+
+![julia-5](examples/julia-5.png)
+<p align="center">
+  Julia Set: -0.7269 + 0.1889i
+</p>
+
+### Burning Ship Fractal
+![burning_ship-1](examples/burning_ship-1.png)
+![burning_ship-2](examples/burning_ship-2.png)
+![burning_ship-3](examples/burning_ship-3.png)
+
+
